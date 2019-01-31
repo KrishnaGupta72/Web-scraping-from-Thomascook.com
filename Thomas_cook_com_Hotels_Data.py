@@ -6,8 +6,8 @@ import json
 import math
 import time
 
-http_proxy = "http://sachin:sachin@123@london.wonderproxy.com:11000"
-https_proxy = "http://sachin:sachin@123@london.wonderproxy.com:11000"
+http_proxy = "Your Proxy:Port Number"
+https_proxy = "Your Proxy:Port Number"
 proxies = {'http': http_proxy, 'https': https_proxy}
 
 #User defined function for extracting a portion of string from a given string.
